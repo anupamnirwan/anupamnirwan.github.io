@@ -333,7 +333,11 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 50%;
+}
+
+.avatar-box img {
+  border-radius: 50%;
 }
 
 .info-content .name {
@@ -827,6 +831,11 @@ main {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+}
+
+ul.timeline-text li {
+  list-style: circle;
+  margin-bottom: 8px;
 }
 
 
@@ -1337,7 +1346,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .sidebar-info { gap: 25px; }
 
-  .avatar-box { border-radius: 30px; }
+  .avatar-box { border-radius: 50%; }
 
   .avatar-box img { width: 120px; }
 
@@ -1500,7 +1509,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .skills-item:not(:last-child) { margin-bottom: 25px; }
 
-
+  a.download-resume-link {
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: -2px;
+    color: #FF9800;
+  }
 
   /**
    * #PORTFOLIO, BLOG
