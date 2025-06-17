@@ -2,39 +2,41 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Himanshi Sangwan
+Himanshi Sangwan
+Product Executive
 
 Show Contacts
 
 Email
-richard@example.com
+sangwanhimanshi@gmail.com
 
 Phone
-+1 (213) 352-2795
++918130889121
 
 Birthday
-June 23, 1982
+Jan 10, 2001
 
 Location
-Sacramento, California, USA
+Faridabad, Haryana
 
 # navbar
 
 About
 Resume
 Portfolio
-Blog
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+Results-driven product associate with 2+ years of experience leading end-to-end feature development, user engagement
+initiatives in consumer-facing tech domains. Proven track record of improving key metrics through data-led
+experimentation, UX revamps, and campaign strategy.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+Skilled in GA4, Looker Studio, JIRA, and Clevertap. Strong cross-functional collaborator with hands-on experience in PRD
+writing, sprint execution, and stakeholder management across design, tech, and business teams.
 
 
 ## service
@@ -93,30 +95,23 @@ Resume
 
 Education
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+VIPS(GGSIPU), Pitampura, New Delhi
+2019 — 2022
+BBA (General) - CGPA 8.6
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+High School Diploma, Commerce
+2019
+91%
 
 Experience
 
-Creative director
-2015 — Present
+Product Intern
+May, 2025 — Present
 Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
-
-Web designer
-2010 — 2013
+Product Associate
+June, 2022 — Jan, 2024
 Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
 My skills
@@ -157,7 +152,7 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+Product design
 
 alt = brawlhalla
 Brawlhalla
@@ -165,15 +160,15 @@ Applications
 
 alt = dsm.
 DSM.
-Web design
+Product design
 
 alt = metaspark
 MetaSpark
-Web design
+Product design
 
 alt = summary
 Summary
-Web development
+Product development
 
 alt = task manager
 Task Manager
@@ -181,7 +176,7 @@ Applications
 
 alt = arrival
 Arrival
-Web development
+Product development
 
 
 
