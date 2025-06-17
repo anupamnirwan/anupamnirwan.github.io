@@ -770,7 +770,12 @@ main {
 
 .article-title { margin-bottom: 30px; }
 
-
+a.download-resume-link {
+  text-decoration: none;
+  display: inline-block;
+  vertical-align: -2px;
+  color: #FF9800;
+}
 /**
  * education and experience 
  */
